@@ -1,0 +1,77 @@
+E:\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+E:\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+E:\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+E:\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\khb87\source\repos\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+E:\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\LMS\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+D:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+C:\Users\sg\Desktop\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.deps.json
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.dll
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\bin\Debug\net8.0\python_tcp_lib.pdb
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.GeneratedMSBuildEditorConfig.editorconfig
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfoInputs.cache
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.AssemblyInfo.cs
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.csproj.CoreCompileInputs.cache
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.dll
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\refint\python_tcp_lib.dll
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\python_tcp_lib.pdb
+E:\혜빈이_내꺼ㅋ\Project_16 (1)\Project_16 (1)\python_tcp_lib\python_tcp_lib\obj\Debug\net8.0\ref\python_tcp_lib.dll

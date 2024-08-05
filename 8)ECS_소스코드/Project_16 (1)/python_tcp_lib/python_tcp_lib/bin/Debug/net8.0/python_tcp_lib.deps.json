@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "python_tcp_lib/1.0.0": {
+        "runtime": {
+          "python_tcp_lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "python_tcp_lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

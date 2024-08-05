@@ -1,0 +1,52 @@
+﻿<Page x:Class="Project_16.LogCheck"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_16"
+      xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+      mc:Ignorable="d" 
+      d:DesignHeight="670" d:DesignWidth="1024"
+      Title="LogCheck">
+
+    <Grid Background="#FF808088">
+        <Canvas HorizontalAlignment="Left" Height="666" VerticalAlignment="Top" Width="230" Background="#FF32323C" Margin="0,4,0,0">
+            <Button x:Name="btn_now" Content="실시간 현황" Height="80" Canvas.Top="66" Width="232" HorizontalAlignment="Center" VerticalAlignment="Top" BorderBrush="#FF808088" Background="#FF32323C" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" Canvas.Left="-1" Click="btn_now_Click"/>
+            <Button Content="이전 로그 조회" Height="80" Canvas.Top="145" Width="232" BorderBrush="#FF808088" Background="#FF808088" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="-1"/>
+            <Button Content="관리자 사용 중     " Height="80" Canvas.Top="586" Width="232" BorderBrush="#FF808088" Background="#FF32323C" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="-1"/>
+        </Canvas>
+        <Canvas HorizontalAlignment="Center" Height="70" VerticalAlignment="Top" Width="1024" Background="#FF32323C"/>
+        <Label Content="불량품 자동 검출 프로그램" HorizontalAlignment="Center" Height="58" Margin="0,12,0,0" VerticalAlignment="Top" Width="288" Foreground="#FFD6D6D7" FontSize="22" RenderTransformOrigin="0.6,0.448"/>
+        <Canvas HorizontalAlignment="Left" Height="485" Margin="301,140,0,0" VerticalAlignment="Top" Width="653" Background="#FFD6D6D7">
+            <Label Content="기계명 :   AA" Height="48" Canvas.Left="166" Canvas.Top="307" Width="136" Background="{x:Null}" Foreground="#FF32323C" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" RenderTransformOrigin="1.068,0.529"/>
+            <TextBlock x:Name="resultBox" Height="108" Canvas.Left="357" TextWrapping="Wrap" Canvas.Top="307" Width="206" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="18"/>
+        </Canvas>
+
+        <lvc:PieChart Name="Chart" Series="{Binding SeriesCollection1}"
+ 
+        LegendLocation="Right" InnerRadius="20" Margin="345,192,403,293" RenderTransformOrigin="1,1" FlowDirection="RightToLeft">
+            <lvc:PieChart.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.1"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </lvc:PieChart.RenderTransform>
+            <lvc:PieChart.DataTooltip>
+                <lvc:DefaultTooltip BulletSize="1"></lvc:DefaultTooltip>
+            </lvc:PieChart.DataTooltip>
+        </lvc:PieChart>
+        <!--<lvc:PieChart Name="pieChart" />-->
+        <lvc:CartesianChart Name="MyBarChart" Margin="645,207,128,309">
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Title="Products" Labels="Good Product,Bad Product"/>
+            </lvc:CartesianChart.AxisX>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis Title="Values"/>
+            </lvc:CartesianChart.AxisY>
+        </lvc:CartesianChart>
+        <Image Margin="171,610,813,19" Source="/Resources/account_on.png" RenderTransformOrigin="0.447,0.938"/>
+
+    </Grid>
+</Page>

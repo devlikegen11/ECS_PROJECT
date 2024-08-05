@@ -1,0 +1,24 @@
+﻿<Page x:Class="Project_16.Start"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Project_16"
+      mc:Ignorable="d" 
+      d:DesignHeight="670" d:DesignWidth="1024"
+      Title="Start">
+
+    <Grid Background="#FF808088">
+        <Canvas HorizontalAlignment="Left" Height="666" VerticalAlignment="Top" Width="230" Background="#FF32323C" Margin="0,4,0,0">
+            <Button Content="실시간 현황" Height="80" Canvas.Top="66" Width="232" HorizontalAlignment="Center" VerticalAlignment="Top" BorderBrush="#FF808088" Background="#FF32323C" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" Canvas.Left="-1"/>
+            <Button Content="이전 로그 조회" Height="80" Canvas.Top="145" Width="232" BorderBrush="#FF808088" Background="#FF32323C" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="-1"/>
+            <Button x:Name="btn_account" Content="관리자 입장  " Height="80" Canvas.Top="586" Width="232" BorderBrush="#FF808088" Background="#FF32323C" Foreground="#FFD6D6D7" Cursor="" FontWeight="Bold" FontSize="18" HorizontalAlignment="Left" VerticalAlignment="Center" Click="btn_account_Click" Canvas.Left="-1"/>
+        </Canvas>
+        <Canvas HorizontalAlignment="Center" Height="70" VerticalAlignment="Top" Width="1024" Background="#FF32323C"/>
+        <Label Content="프로그램 사용을 위해 관리자 계정으로 입장해주십시오." HorizontalAlignment="Left" Height="39" Margin="424,355,0,0" VerticalAlignment="Top" Width="473" Foreground="#FFD6D6D7" FontSize="18"/>
+        <Label Content="불량품 자동 검출 프로그램" HorizontalAlignment="Center" Height="58" Margin="0,12,0,0" VerticalAlignment="Top" Width="288" Foreground="#FFD6D6D7" FontSize="22" RenderTransformOrigin="0.6,0.448"/>
+        <Image Margin="171,612,813,19" Source="/Resources/account_off.png" Stretch="Fill" RenderTransformOrigin="0.447,0.938"/>
+        <Image Margin="379,350,600,276" Source="/Resources/exclamation-mark.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>
